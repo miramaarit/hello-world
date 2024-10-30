@@ -1,0 +1,15 @@
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.exe
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.deps.json
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.runtimeconfig.json
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.dll
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.pdb
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfoInputs.cache
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfo.cs
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.sourcelink.json
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.dll
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\obj\Debug\net8.0\refint\HelloWorldApp.dll
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.pdb
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.genruntimeconfig.cache
+D:\Cleancodekurs\Git_flow\hello-world\HelloWorldApp\obj\Debug\net8.0\ref\HelloWorldApp.dll
